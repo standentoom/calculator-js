@@ -43,13 +43,13 @@ body {
     font-family: arial;
 }
 
-div#blur {
-    background: url(../Images/blur.png);
-    height: 100%;
-    width: 100%;
-    position: relative;
-}
-
+div#blur {x
+    background: url(../Images/blur.pngx);
+    height: 100%;x
+    width: 100%;x
+    position: relative;x
+}x
+x
 main {
 	width: 400px;
 	display: flex;
